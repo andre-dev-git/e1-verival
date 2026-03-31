@@ -1,0 +1,14 @@
+# Build artifacts (Maven/Java)
+target/
+out/
+
+# Test/runtime outputs
+*.log
+*.tmp
+*.temp
+*.dump
+*.dumpstream
+
+# OS artifacts
+.DS_Store
+Thumbs.db
